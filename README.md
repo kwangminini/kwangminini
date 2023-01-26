@@ -19,10 +19,18 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReduxSaga-764ABC?style=flat-square&logo=Redux-Saga&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReduxThunk-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReduxSaga-764ABC?style=flat-square&logo=Redux-Saga&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/Recoil-1179fb?style=flat-square&logo=Recoil&logoColor=white"/>
-
- ## SNS 
+ <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
+ 
+## Back-end
+ <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+ 
+## SNS 
  <a href="https://always-develop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
  <a href="https://www.instagram.com/9angmini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
 
