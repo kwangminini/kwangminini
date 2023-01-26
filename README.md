@@ -7,9 +7,9 @@
 **I like to ride a bike🚴 and climbing🧗**
 
 ## Career
-🎓: Department of Software Engineering, Konkuk University, Seoul <br/>
-🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ ) / [CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) (2019.06.24 ~ 2021.01.03)
-
+🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ ) <br/> 
+🏢: [CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) (2019.06.24 ~ 2021.01.03)<br/>
+🎓: Department of Software Engineering, Konkuk University, Seoul
 ## Front-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1155fb?style=flat-square&logo=CSS3&logoColor=white"/>
