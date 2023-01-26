@@ -1,7 +1,7 @@
 
 <div align="center"}>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=1e8ffa&height=300&section=header&text=Accept%20with%20open%20arms&fontSize=70&fontColor=ffffff&desc=Kemon's%20Github%20profile&descSize=30&descAlign=75&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=1e8ffa&height=200&section=header&text=Accept%20with%20open%20arms&fontSize=50&fontColor=ffffff&desc=Kemon's%20Github%20profile&descSize=30&descAlign=64&descAlignY=68)
 
 **Hello, I'm a Front-end Developer** <br/>
 **I like to ride a bike🚴 and climbing🧗**
