@@ -5,13 +5,10 @@
 
 **Hello, I'm a Front-end Developer** <br/>
 **I like to ride a bike🚴 and climbing🧗**
-<br/>
-<br/>
+
 ## Career
 🎓: Department of Software Engineering, Konkuk University, Seoul <br/>
 🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ ) / [CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) (2019.06.24 ~ 2021.01.03)
-<br/>
-<br/>
 
 ## Front-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -24,15 +21,11 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReduxSaga-764ABC?style=flat-square&logo=Redux-Saga&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-1179fb?style=flat-square&logo=Recoil&logoColor=white"/>
-<br/>
-<br/>
-## SNS
+
+ ## SNS 
  <a href="https://always-develop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
  <a href="https://www.instagram.com/9angmini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
-<br/>
-<br/>
 
 ![Kwangminini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangminini&show_icons=true&theme=radical)
-
 
 </div>
