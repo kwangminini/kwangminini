@@ -9,6 +9,7 @@
 ## Career
 🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ ) <br/> 
 🏢: [CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) (2019.06.24 ~ 2021.01.03)<br/>
+## Education
 🎓: Department of Software Engineering, [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul
 ## Front-end
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
