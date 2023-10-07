@@ -40,10 +40,6 @@
  <img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
- 
-## SNS 
- <a href="https://always-develop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
- <a href="https://www.instagram.com/9angmini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 ![Kwangminini's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangminini&show_icons=true&theme=algolia)
 
