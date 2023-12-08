@@ -7,7 +7,8 @@
 **I like to ride a bike🚴 and climbing🧗**
 
 ## Career
-🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ ) <br/> 
+🏢: A-bly (2023.11.13 ~ ) <br/> 
+🏢: [Glosign](https://www.glosign.com) (2021.01.04 ~ 2023.10.31) <br/> 
 🏢: [CJ OliveNetworks](https://www.cjolivenetworks.co.kr/) (2019.06.24 ~ 2021.01.03)<br/>
 ## Education
 🎓: Department of Software Engineering, [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), Seoul
